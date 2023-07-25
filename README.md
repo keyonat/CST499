@@ -1,2 +1,2 @@
 # CST499
-Captsone Course
+Capstone Course
